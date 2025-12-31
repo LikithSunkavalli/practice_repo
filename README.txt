@@ -1,1 +1,2 @@
-before merging featureA
+New Changesin feature-A
+
